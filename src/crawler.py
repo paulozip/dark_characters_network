@@ -1,9 +1,10 @@
-import pandas as pd
-import re
-import requests
 import os
+import re
 import sys
+import urllib.request
 
+import pandas as pd
+import requests
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 
@@ -34,7 +35,10 @@ for character in tqdm(characters_urls):
     # Collecting character's thumbnail
     character_name = re.sub(r'(\_|\/wiki\/)', ' ', character).strip()
     character_thumbnail = bs.find(class_='pi-image-thumbnail')['src']
-    thumbnails.append({ 'character_name': character_name, 'thumbnail_url': character_thumbnail })
+    thumbnails.append({ 'character': character_name, 'thumbnail_url': character_thumbnail })
+    
+    # Downloading thumbnail
+    urllib.request.urlretrieve(character_thumbnail, 'data/img/characters/{}'.format(character_name))
 
     # Collecting Family board
     char_family_info = bs.find(attrs={"data-source": "Family"}).find_all(class_='pi-data-value pi-font')

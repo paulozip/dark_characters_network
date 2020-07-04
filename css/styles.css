@@ -1,0 +1,11 @@
+@media only screen and (max-width: 1600px) {
+  body {
+    font: 10pt arial;
+  }
+  
+  #network {
+    height: 750px;
+    border: 1px solid lightgray;
+    background-color:#333333;
+  }
+}

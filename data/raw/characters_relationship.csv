@@ -3,25 +3,25 @@ Daniel Kahnwald,Daughter,Ines Kahnwald,/wiki/Ines_Kahnwald
 Daniel Kahnwald,Adoptive Grandson,Michael Kahnwald,/wiki/Michael_Kahnwald
 Daniel Kahnwald,Adoptive Granddaughter In-Law,Hannah Kahnwald,/wiki/Hannah_Kahnwald
 Daniel Kahnwald,Adoptive Great-Grandson,Jonas Kahnwald,/wiki/Jonas_Kahnwald
-Hannah Kahnwald,Father,Sebastian Krüger,/wiki/Sebastian_Kr%C3%BCger
-Hannah Kahnwald,Husband/Great-Great-Great-Grandson,Michael Kahnwald,/wiki/Michael_Kahnwald
-Hannah Kahnwald,Son,Jonas Kahnwald,/wiki/Jonas_Kahnwald
-Hannah Kahnwald,Daughter,Silja Tiedemann,/wiki/Silja_Tiedemann
-Hannah Kahnwald,Grandson,Hanno Tauber,/wiki/Hanno_Tauber
-Hannah Kahnwald,Granddaughter,Agnes Nielsen,/wiki/Agnes_Nielsen
-Hannah Kahnwald,Great-Grandson,Tronte Nielsen,/wiki/Tronte_Nielsen
-Hannah Kahnwald,Great-Granddaughter,Charlotte Doppler,/wiki/Charlotte_Doppler
-Hannah Kahnwald,Great-Great-Grandson/Father-In-Law/Former Affair,Ulrich Nielsen,/wiki/Ulrich_Nielsen
-Hannah Kahnwald,Great-Great-Grandson,Mads Nielsen,/wiki/Mads_Nielsen
-Hannah Kahnwald,Great-Great-Granddaughter,Charlotte Doppler,/wiki/Charlotte_Doppler
-Hannah Kahnwald,Great-Great-Great-Granddaughter/Sister-In-Law,Martha Nielsen,/wiki/Martha_Nielsen
-Hannah Kahnwald,Great-Great-Great-Grandson/Brother-In-Law,Magnus Nielsen,/wiki/Magnus_Nielsen
-Hannah Kahnwald,Great-Great-Great-Granddaughter,Franziska Doppler,/wiki/Franziska_Doppler
-Hannah Kahnwald,Great-Great-Great-Granddaughter,Elisabeth Doppler,/wiki/Elisabeth_Doppler
-Hannah Kahnwald,Adoptive Mother-In-Law,Ines Kahnwald,/wiki/Ines_Kahnwald
-Hannah Kahnwald,Mother-In-Law,Katharina Nielsen,/wiki/Katharina_Nielsen
+Hannah Kahnwald,father,Sebastian Krüger,/wiki/Sebastian_Kr%C3%BCger
+Hannah Kahnwald,husband/great-great-great-grandson,Michael Kahnwald,/wiki/Michael_Kahnwald
+Hannah Kahnwald,son,Jonas Kahnwald,/wiki/Jonas_Kahnwald
+Hannah Kahnwald,daughter,Silja Tiedemann,/wiki/Silja_Tiedemann
+Hannah Kahnwald,grandson,The Unknown,/wiki/The_Unknown
+Hannah Kahnwald,grandson,Hanno Tauber,/wiki/Hanno_Tauber
+Hannah Kahnwald,granddaughter,Agnes Nielsen,/wiki/Agnes_Nielsen
+Hannah Kahnwald,great-grandson,Tronte Nielsen,/wiki/Tronte_Nielsen
+Hannah Kahnwald,great-granddaughter,Charlotte Doppler,/wiki/Charlotte_Doppler
+Hannah Kahnwald,great-great-grandson/father-in-law/former affair,Ulrich Nielsen,/wiki/Ulrich_Nielsen
+Hannah Kahnwald,great-great-grandson,Mads Nielsen,/wiki/Mads_Nielsen
+Hannah Kahnwald,great-great-granddaughter,Charlotte Doppler,/wiki/Charlotte_Doppler
+Hannah Kahnwald,great-great-great-granddaughter/sister-in-law,Martha Nielsen,/wiki/Martha_Nielsen
+Hannah Kahnwald,great-great-great-grandson/brother-in-law,Magnus Nielsen,/wiki/Magnus_Nielsen
+Hannah Kahnwald,great-great-great-granddaughter,Franziska Doppler,/wiki/Franziska_Doppler
+Hannah Kahnwald,great-great-great-granddaughter,Elisabeth Doppler,/wiki/Elisabeth_Doppler
+Hannah Kahnwald,adoptive mother-in-law,Ines Kahnwald,/wiki/Ines_Kahnwald
+Hannah Kahnwald,mother-in-law,Katharina Nielsen,/wiki/Katharina_Nielsen
 Hannah Kahnwald,affair/lover in 1956,Egon Tiedemann,/wiki/Egon_Tiedemann
-Hannah Kahnwald,lover in alternate timeline,Torben Wöller,/wiki/Torben_W%C3%B6ller
 Ines Kahnwald,father,Daniel Kahnwald,/wiki/Daniel_Kahnwald
 Ines Kahnwald,adoptive son,Michael Kahnwald,/wiki/Michael_Kahnwald
 Ines Kahnwald,adoptive grandson,Jonas Kahnwald,/wiki/Jonas_Kahnwald
@@ -90,15 +90,16 @@ Agnes Nielsen,Great-Grandfather,Sebastian Krüger,/wiki/Sebastian_Kr%C3%BCger
 Agnes Nielsen,Great-Great-Grandmother/Lover,Doris Tiedemann,/wiki/Doris_Tiedemann
 Katharina Nielsen,mother,Helene Albers,/wiki/Helene_Albers
 Katharina Nielsen,father,Hermann Albers,/wiki/Hermann_Albers
-Katharina Nielsen,husband,Ulrich Nielsen,/wiki/Ulrich_Nielsen
-Katharina Nielsen,Son,Magnus Nielsen,/wiki/Magnus_Nielsen
-Katharina Nielsen,Daughter,Martha Nielsen,/wiki/Martha_Nielsen
-Katharina Nielsen,Son,Mikkel Nielsen,/wiki/Mikkel_Nielsen
-Katharina Nielsen,Mother-In-Law,Jana Nielsen,/wiki/Jana_Nielsen
-Katharina Nielsen,Father-In-Law,Tronte Nielsen,/wiki/Tronte_Nielsen
-Katharina Nielsen,Brother-In-Law,Mads Nielsen,/wiki/Mads_Nielsen
-Katharina Nielsen,Daughter-In-Law,Hannah Kahnwald,/wiki/Hannah_Kahnwald
-Katharina Nielsen,Grandson,Jonas Kahnwald,/wiki/Jonas_Kahnwald
+Katharina Nielsen,husband/great-great-grandson/great-great-great-grandson,Ulrich Nielsen,/wiki/Ulrich_Nielsen
+Katharina Nielsen,son,Magnus Nielsen,/wiki/Magnus_Nielsen
+Katharina Nielsen,daughter,Martha Nielsen,/wiki/Martha_Nielsen
+Katharina Nielsen,son,Mikkel Nielsen,/wiki/Mikkel_Nielsen
+Katharina Nielsen,mother-in-law,Jana Nielsen,/wiki/Jana_Nielsen
+Katharina Nielsen,father-in-law/great-grandson/great-great-grandson,Tronte Nielsen,/wiki/Tronte_Nielsen
+Katharina Nielsen,brother-in-law/great-great-grandson/great-great-great-grandson,Mads Nielsen,/wiki/Mads_Nielsen
+Katharina Nielsen,daughter-in-law,Hannah Kahnwald,/wiki/Hannah_Kahnwald
+Katharina Nielsen,grandson,Jonas Kahnwald,/wiki/Jonas_Kahnwald
+Katharina Nielsen,grandson/great-grandson,The Unknown,/wiki/The_Unknown
 Magnus Nielsen,Father,Ulrich Nielsen,/wiki/Ulrich_Nielsen
 Magnus Nielsen,Mother,Katharina Nielsen,/wiki/Katharina_Nielsen
 Magnus Nielsen,Sister,Martha Nielsen,/wiki/Martha_Nielsen
@@ -129,7 +130,6 @@ Martha Nielsen,first cousin; twice removed,Charlotte Doppler,/wiki/Charlotte_Dop
 Martha Nielsen,second cousin; once removed,Franziska Doppler,/wiki/Franziska_Doppler
 Martha Nielsen,second cousin; once removed,Elisabeth Doppler,/wiki/Elisabeth_Doppler
 Martha Nielsen,ex-boyfriend,Bartosz Tiedemann,/wiki/Bartosz_Tiedemann
-Martha Nielsen,ex-boyfriend in 2.0,Kilian Obendorf,
 Mikkel Nielsen,Wife,Hannah Kahnwald,/wiki/Hannah_Kahnwald
 Mikkel Nielsen,Son,Jonas Kahnwald,/wiki/Jonas_Kahnwald
 Mikkel Nielsen,Father,Ulrich Nielsen,/wiki/Ulrich_Nielsen
@@ -188,7 +188,9 @@ Mads Nielsen,First cousin; once removed,Charlotte Doppler,/wiki/Charlotte_Dopple
 Mads Nielsen,First cousin; twice removed,Franziska Doppler,/wiki/Franziska_Doppler
 Mads Nielsen,First cousin; twice removed,Elisabeth Doppler,/wiki/Elisabeth_Doppler
 Bernd Doppler,wife,Greta Doppler,/wiki/Greta_Doppler
-Bernd Doppler,daughter,Regina Tiedemann,/wiki/Regina_Tiedemann
+Bernd Doppler,"son, not biological",Helge Doppler,/wiki/Helge_Doppler
+Bernd Doppler,daughter in Origin World,Regina Tiedemann,/wiki/Regina_Tiedemann
+Bernd Doppler,wife in Origin World,Origin World,/wiki/Origin_World
 Charlotte Doppler,husband/grandfather,Peter Doppler,/wiki/Peter_Doppler
 Charlotte Doppler,daughter/aunt,Franziska Doppler,/wiki/Franziska_Doppler
 Charlotte Doppler,daughter/mother,Elisabeth Doppler,/wiki/Elisabeth_Doppler
@@ -238,8 +240,9 @@ Franziska Doppler,second cousin; once removed,Martha Nielsen,/wiki/Martha_Nielse
 Franziska Doppler,second cousin; once removed,Mikkel Nielsen,/wiki/Michael_Kahnwald
 Franziska Doppler,second cousin; twice removed,Jonas Kahnwald,/wiki/Jonas_Kahnwald
 Greta Doppler,Husband,Bernd Doppler,/wiki/Bernd_Doppler
-Greta Doppler,Affair/Lover,Helge Doppler,/wiki/Helge_Doppler
-Greta Doppler,Son,Peter Doppler,/wiki/Peter_Doppler
+Greta Doppler,Rapist,Helge Doppler,/wiki/Helge_Doppler
+Greta Doppler,Son,Ulla Schmidt,/wiki/Ulla_Schmidt
+Greta Doppler,Daughter- In Law,Peter Doppler,/wiki/Peter_Doppler
 Greta Doppler,Grandson,Charlotte Doppler,/wiki/Charlotte_Doppler
 Greta Doppler,Granddaughter- In Law,Franziska Doppler,/wiki/Franziska_Doppler
 Greta Doppler,Great-Granddaughter,Elisabeth Doppler,/wiki/Elisabeth_Doppler
@@ -254,26 +257,58 @@ Peter Doppler,mother,Charlotte Doppler,/wiki/Charlotte_Doppler
 Peter Doppler,wife/granddaughter,Franziska Doppler,/wiki/Franziska_Doppler
 Peter Doppler,daughter,Elisabeth Doppler,/wiki/Elisabeth_Doppler
 Peter Doppler,daughter/mother-in-law,Benni,/wiki/Benni
+Peter Doppler,girlfriend Original World,Original World,/wiki/Original_World
 Erik Obendorf,mother,Jürgen Obendorf,/wiki/J%C3%BCrgen_Obendorf
 Erik Obendorf,brother in 2.0,Ulla Obendorf,/wiki/Ulla_Obendorf
-Silja Tiedemann,mother,Hannah Kahnwald,/wiki/Hannah_Kahnwald
+Silja Tiedemann,mother/great-great-granddaughter-in-law,Hannah Kahnwald,/wiki/Hannah_Kahnwald
 Silja Tiedemann,father,Egon Tiedemann,/wiki/Egon_Tiedemann
-Silja Tiedemann,half-brother,Jonas Kahnwald,/wiki/Jonas_Kahnwald
-Silja Tiedemann,half-sister,Claudia Tiedemann,/wiki/Claudia_Tiedemann
-Silja Tiedemann,husband/great-nephew,Bartosz Tiedemann,/wiki/Bartosz_Tiedemann
+Silja Tiedemann,half-brother/great-great-great-grandson,Jonas Kahnwald,/wiki/Jonas_Kahnwald
+Silja Tiedemann,half-sister/grandmother-in-law,Claudia Tiedemann,/wiki/Claudia_Tiedemann
+Silja Tiedemann,husband/half-great-nephew,Bartosz Tiedemann,/wiki/Bartosz_Tiedemann
 Silja Tiedemann,son,Hanno Tauber,/wiki/Hanno_Tauber
 Silja Tiedemann,daughter,Agnes Nielsen,/wiki/Agnes_Nielsen
-Silja Tiedemann,niece/mother-in-law,Regina Tiedemann,/wiki/Regina_Tiedemann
-H.G. Tannhaus,adoptive granddaughter,Charlotte Doppler,/wiki/Charlotte_Doppler
-H.G. Tannhaus,son,Leopold Tannhaus,
-H.G. Tannhaus,daughter-in-law,Gustav Tannhaus,
-H.G. Tannhaus,granddaughter,Heinrich Tannhaus,
-The Unknown,mother/great-granddaughter,Martha Nielsen,/wiki/Martha_Nielsen
-The Unknown,father/great-great-grandson,Jonas Kahnwald,/wiki/Jonas_Kahnwald
+Silja Tiedemann,half-niece/mother-in-law,Regina Tiedemann,/wiki/Regina_Tiedemann
+Silja Tiedemann,granddaughter,Charlotte Doppler,/wiki/Charlotte_Doppler
+Silja Tiedemann,grandson-in-law,Peter Doppler,/wiki/Peter_Doppler
+Silja Tiedemann,great-granddaughter,Franziska Doppler,/wiki/Franziska_Doppler
+Silja Tiedemann,daughter-in-law/great-granddaughter,Elisabeth Doppler,/wiki/Elisabeth_Doppler
+Silja Tiedemann,grandson,Tronte Nielsen,/wiki/Tronte_Nielsen
+Silja Tiedemann,granddaughter-in-law,Jana Nielsen,/wiki/Jana_Nielsen
+Silja Tiedemann,great-grandson,Ulrich Nielsen,/wiki/Ulrich_Nielsen
+Silja Tiedemann,great-grandson,Mads Nielsen,/wiki/Mads_Nielsen
+Silja Tiedemann,great-granddaughter-in-law,Katharina Nielsen,/wiki/Katharina_Nielsen
+Silja Tiedemann,great-great-grandson,Magnus Nielsen,/wiki/Magnus_Nielsen
+Silja Tiedemann,great-great-granddaughter,Martha Nielsen,/wiki/Martha_Nielsen
+Silja Tiedemann,great-great-grandson,Michael Kahnwald,/wiki/Michael_Kahnwald
+Silja Tiedemann,great-great-great-grandson/great-great-great-great-grandson,The Unknown,/wiki/The_Unknown
+H.G. Tannhaus,son,Marek Tannhaus,/wiki/Marek_Tannhaus
+H.G. Tannhaus,daughter-in-law,Charlotte Doppler,/wiki/Charlotte_Doppler
+H.G. Tannhaus,granddaughter,Adam,/wiki/Adam%27s_World
+H.G. Tannhaus,adoptive granddaughter,Eva's World,/wiki/Eva%27s_World
+H.G. Tannhaus,father,Leopold Tannhaus,
+H.G. Tannhaus,grandfather,Gustav Tannhaus,/wiki/Gustav_Tannhaus
+H.G. Tannhaus,great-grandfather,Heinrich Tannhaus,/wiki/Heinrich_Tannhaus
+The Unknown,mother/great-granddaughter,Martha Nielsen,/wiki/Martha_Nielsen_(Eva%27s_World)
+The Unknown,father/cousin/great-great-grandson,Jonas Kahnwald,/wiki/Jonas_Kahnwald
 The Unknown,son,Tronte Nielsen,/wiki/Tronte_Nielsen
-The Unknown,grandson,Ulrich Nielsen,/wiki/Ulrich_Nielsen
-The Unknown,grandson,Mads Nielsen,/wiki/Mads_Nielsen
-The Unknown,great-grandson,Mikkel Nielsen,/wiki/Mikkel_Nielsen
+The Unknown,daughter-in-law,Jana Nielsen,/wiki/Jana_Nielsen
+The Unknown,grandfather/great-grandson/uncle,Michael Kahnwald,/wiki/Michael_Kahnwald
+The Unknown,grandmother/great-great-great-great-grandmother/great-great-great-great-great-grandmother,Hannah Kahnwald,/wiki/Hannah_Kahnwald
+The Unknown,grandfather/great-grandfather/grandson,Ulrich Nielsen,/wiki/Ulrich_Nielsen
+The Unknown,grandmother/great-grandmother,Katharina Nielsen,/wiki/Katharina_Nielsen
+The Unknown,great-grandmother/great-great-grandmother,Helene Albers,/wiki/Helene_Albers
+The Unknown,great-grandfather/great-great-grandfather,Hermann Albers,/wiki/Hermann_Albers
+The Unknown,grandson/great-uncle/great-great-uncle,Mads Nielsen,/wiki/Mads_Nielsen
+The Unknown,great-granddaughter/great-aunt,Martha Nielsen,/wiki/Martha_Nielsen
+The Unknown,great-grandson/uncle/great-uncle,Magnus Nielsen,/wiki/Magnus_Nielsen
+The Unknown,great-great-great-grandfather/great-great-great-great-grandfather,Bartosz Tiedemann,/wiki/Bartosz_Tiedemann
+The Unknown,great-great-great-grandmother/great-great-great-great-grandmother,Silja Tiedemann,/wiki/Silja_Tiedemann
+The Unknown,great-great-great-great-grandfather/great-great-great-great-great-grandfather,Aleksander Tiedemann,/wiki/Aleksander_Tiedemann
+The Unknown,great-great-great-great-grandmother/great-great-great-great-great-grandmother,Regina Tiedemann,/wiki/Regina_Tiedemann
+The Unknown,great-great-great-great-grandfather/great-great-great-great-great-grandfather/great-great-great-great-great-great-grandfather/great-great-great-great-great-great-great-grandfather,Egon Tiedemann,/wiki/Egon_Tiedemann
+The Unknown,great-great-great-great-great-grandmother/great-great-great-great-great-great-grandmother,Claudia Tiedemann,/wiki/Claudia_Tiedemann
+The Unknown,great-great-great-great-great-grandfather/great-great-great-great-great-great-grandfather,Bernd Doppler,/wiki/Bernd_Doppler
+The Unknown,great-great-great-great-great-great-grandmother/great-great-great-great-great-great-great-grandmother,Doris Tiedemann,/wiki/Doris_Tiedemann
 Aleksander Tiedemann,Wife,Regina Tiedemann,/wiki/Regina_Tiedemann
 Aleksander Tiedemann,Son,Bartosz Tiedemann,/wiki/Bartosz_Tiedemann
 Aleksander Tiedemann,Grandson,Hanno Tauber,/wiki/Hanno_Tauber
@@ -309,24 +344,62 @@ Bartosz Tiedemann,Grandmother/sister-in-law,Claudia Tiedemann,/wiki/Claudia_Tied
 Bartosz Tiedemann,grandfather,Bernd Doppler,/wiki/Bernd_Doppler
 Bartosz Tiedemann,Great-Grandfather/father-in-law,Egon Tiedemann,/wiki/Egon_Tiedemann
 Bartosz Tiedemann,Great-Grandmother,Doris Tiedemann,/wiki/Doris_Tiedemann
-Claudia Tiedemann,Father,Egon Tiedemann,/wiki/Egon_Tiedemann
-Claudia Tiedemann,Mother,Doris Tiedemann,/wiki/Doris_Tiedemann
-Claudia Tiedemann,Daughter,Regina Tiedemann,/wiki/Regina_Tiedemann
-Claudia Tiedemann,Half-Sister,Silja Tiedemann,/wiki/Silja_Tiedemann
-Claudia Tiedemann,Son-In-Law,Aleksander Tiedemann,/wiki/Aleksander_Tiedemann
+Claudia Tiedemann,father,Egon Tiedemann,/wiki/Egon_Tiedemann
+Claudia Tiedemann,mother,Doris Tiedemann,/wiki/Doris_Tiedemann
+Claudia Tiedemann,affair,Bernd Doppler,/wiki/Bernd_Doppler
+Claudia Tiedemann,daughter,Regina Tiedemann,/wiki/Regina_Tiedemann
+Claudia Tiedemann,half-sister,Silja Tiedemann,/wiki/Silja_Tiedemann
+Claudia Tiedemann,son-in-law,Aleksander Tiedemann,/wiki/Aleksander_Tiedemann
 Claudia Tiedemann,Grandson,Bartosz Tiedemann,/wiki/Bartosz_Tiedemann
-Doris Tiedemann,possibly separated,Egon Tiedemann,/wiki/Egon_Tiedemann
+Claudia Tiedemann,great-grandson,Hanno Tauber,/wiki/Hanno_Tauber
+Claudia Tiedemann,great-granddaughter,Agnes Nielsen,/wiki/Agnes_Nielsen
+Claudia Tiedemann,great-great-granddaughter,Charlotte Doppler,/wiki/Charlotte_Doppler
+Claudia Tiedemann,great-great-grandson/former affair,Tronte Nielsen,/wiki/Tronte_Nielsen
+Claudia Tiedemann,great-great-great-granddaughter,Franziska Doppler,/wiki/Franziska_Doppler
+Claudia Tiedemann,great-great-great-granddaughter,Elisabeth Doppler,/wiki/Elisabeth_Doppler
+Claudia Tiedemann,great-great-great-grandson,Ulrich Nielsen,/wiki/Ulrich_Nielsen
+Claudia Tiedemann,great-great-great-grandson,Mads Nielsen,/wiki/Mads_Nielsen
+Claudia Tiedemann,great-great-great-great-grandson,Magnus Nielsen,/wiki/Magnus_Nielsen
+Claudia Tiedemann,great-great-great-great-granddaughter,Martha Nielsen,/wiki/Martha_Nielsen
+Claudia Tiedemann,great-great-great-great-grandson,Michael Kahnwald,/wiki/Michael_Kahnwald
+Claudia Tiedemann,great-great-great-great-great-grandson,Jonas Kahnwald,/wiki/Jonas_Kahnwald
+Claudia Tiedemann,great-great-great-great-great-grandson/great-great-great-great-great-great-grandson,The Unknown,/wiki/The_Unknown
+Doris Tiedemann,ex-husband,Egon Tiedemann,/wiki/Egon_Tiedemann
 Doris Tiedemann,daughter,Claudia Tiedemann,/wiki/Claudia_Tiedemann
 Doris Tiedemann,granddaughter,Regina Tiedemann,/wiki/Regina_Tiedemann
-Doris Tiedemann,great grandson,Bartosz Tiedemann,/wiki/Bartosz_Tiedemann
-Doris Tiedemann,lover/affair,Agnes Nielsen,/wiki/Agnes_Nielsen
+Doris Tiedemann,great-grandson,Bartosz Tiedemann,/wiki/Bartosz_Tiedemann
+Doris Tiedemann,great-great-grandson,Hanno Tauber,/wiki/Hanno_Tauber
+Doris Tiedemann,lover/great-great-granddaughter,Agnes Nielsen,/wiki/Agnes_Nielsen
+Doris Tiedemann,great-great-great-granddaughter,Charlotte Doppler,/wiki/Charlotte_Doppler
+Doris Tiedemann,great-great-great-grandson,Tronte Nielsen,/wiki/Tronte_Nielsen
+Doris Tiedemann,great-great-great-great-granddaughter,Franziska Doppler,/wiki/Franziska_Doppler
+Doris Tiedemann,great-great-great-great-granddaughter,Elisabeth Doppler,/wiki/Elisabeth_Doppler
+Doris Tiedemann,great-great-great-great-grandson,Ulrich Nielsen,/wiki/Ulrich_Nielsen
+Doris Tiedemann,great-great-great-great-grandson,Mads Nielsen,/wiki/Mads_Nielsen
+Doris Tiedemann,great-great-great-great-great-grandson,Magnus Nielsen,/wiki/Magnus_Nielsen
+Doris Tiedemann,great-great-great-great-great-granddaughter,Martha Nielsen,/wiki/Martha_Nielsen
+Doris Tiedemann,great-great-great-great-great-grandson,Michael Kahnwald,/wiki/Michael_Kahnwald
+Doris Tiedemann,great-great-great-great-great-great-grandson,Jonas Kahnwald,/wiki/Jonas_Kahnwald
+Doris Tiedemann,great-great-great-great-great-great-grandson/great-great-great-great-great-great-great-grandson,The Unknown,/wiki/The_Unknown
 Egon Tiedemann,ex-wife,Doris Tiedemann,/wiki/Doris_Tiedemann
+Egon Tiedemann,affair,Hannah Kahnwald,/wiki/Hannah_Kahnwald
 Egon Tiedemann,daughter,Claudia Tiedemann,/wiki/Claudia_Tiedemann
-Egon Tiedemann,daughter,Silja Tiedemann,/wiki/Silja_Tiedemann
+Egon Tiedemann,daughter/great-granddaughter-in-law,Silja Tiedemann,/wiki/Silja_Tiedemann
 Egon Tiedemann,granddaughter,Regina Tiedemann,/wiki/Regina_Tiedemann
 Egon Tiedemann,great-grandson,Bartosz Tiedemann,/wiki/Bartosz_Tiedemann
-Egon Tiedemann,Grandson/Great-Great-Grandson,Hanno Tauber,/wiki/Hanno_Tauber
-Egon Tiedemann,Granddaughter/Great-Great-Granddaughter,Agnes Nielsen,/wiki/Agnes_Nielsen
+Egon Tiedemann,grandson/great-great-grandson,Hanno Tauber,/wiki/Hanno_Tauber
+Egon Tiedemann,granddaughter/great-great-granddaughter,Agnes Nielsen,/wiki/Agnes_Nielsen
+Egon Tiedemann,great-granddaughter/great-great-great-granddaughter,Charlotte Doppler,/wiki/Charlotte_Doppler
+Egon Tiedemann,great-great-granddaughter/great-great-great-great-granddaughter,Franziska Doppler,/wiki/Franziska_Doppler
+Egon Tiedemann,great-great-granddaughter/great-great-great-great-granddaughter,Elisabeth Doppler,/wiki/Elisabeth_Doppler
+Egon Tiedemann,great-grandson/great-great-great-grandson,Tronte Nielsen,/wiki/Tronte_Nielsen
+Egon Tiedemann,great-great-grandson/great-great-great-great-grandson,Ulrich Nielsen,/wiki/Ulrich_Nielsen
+Egon Tiedemann,great-great-grandson/great-great-great-great-grandson,Mads Nielsen,/wiki/Mads_Nielsen
+Egon Tiedemann,great-great-great-grandson/great-great-great-great-great-grandson,Magnus Nielsen,/wiki/Magnus_Nielsen
+Egon Tiedemann,great-great-great-granddaughter/great-great-great-great-great-granddaughter,Martha Nielsen,/wiki/Martha_Nielsen
+Egon Tiedemann,great-great-great-grandson/great-great-great-great-great-grandson,Michael Kahnwald,/wiki/Michael_Kahnwald
+Egon Tiedemann,great-great-great-great-grandson/great-great-great-great-great-great-grandson,Jonas Kahnwald,/wiki/Jonas_Kahnwald
+Egon Tiedemann,great-great-great-great-grandson/great-great-great-great-great-grandson/great-great-great-great-great-great-grandson,The Unknown,/wiki/The_Unknown
 Regina Tiedemann,Mother,Claudia Tiedemann,/wiki/Claudia_Tiedemann
 Regina Tiedemann,Father,Bernd Doppler,/wiki/Bernd_Doppler
 Regina Tiedemann,Grandmother,Doris Tiedemann,/wiki/Doris_Tiedemann
@@ -346,26 +419,34 @@ Regina Tiedemann,Great-Great-Great-Grandson,Magnus Nielsen,/wiki/Magnus_Nielsen
 Regina Tiedemann,Great-Great-Great-Granddaughter,Martha Nielsen,/wiki/Martha_Nielsen
 Regina Tiedemann,Great-Great-Great-Grandson,Mikkel Nielsen,/wiki/Michael_Kahnwald
 Regina Tiedemann,Great-Great-Great-Great-Grandson,Jonas Kahnwald,/wiki/Jonas_Kahnwald
-Jonas Kahnwald,Mother,Hannah Kahnwald,/wiki/Hannah_Kahnwald
-Jonas Kahnwald,Father,Michael Kahnwald,/wiki/Michael_Kahnwald
-Jonas Kahnwald,Half-Sister,Silja Tiedemann,/wiki/Silja_Tiedemann
-Jonas Kahnwald,son,The Unknown,/wiki/The_Unknown
-Jonas Kahnwald,Grandfather,Sebastian Krüger,/wiki/Sebastian_Kr%C3%BCger
-Jonas Kahnwald,Grandfather,Ulrich Nielsen,/wiki/Ulrich_Nielsen
-Jonas Kahnwald,Grandmother,Katharina Nielsen,/wiki/Katharina_Nielsen
-Jonas Kahnwald,Adoptive Grandmother,Ines Kahnwald,/wiki/Ines_Kahnwald
-Jonas Kahnwald,Great-Grandfather,Tronte Nielsen,/wiki/Tronte_Nielsen
-Jonas Kahnwald,Great-Grandmother,Jana Nielsen,/wiki/Jana_Nielsen
-Jonas Kahnwald,Adoptive Great-Grandfather †,Daniel Kahnwald,/wiki/Daniel_Kahnwald
-Jonas Kahnwald,Great-Great-Grandmother,Agnes Nielsen,/wiki/Agnes_Nielsen
-Jonas Kahnwald,Grand Uncle,Mads Nielsen,/wiki/Mads_Nielsen
-Jonas Kahnwald,Uncle,Magnus Nielsen,/wiki/Magnus_Nielsen
-Jonas Kahnwald,Aunt/Love Interest,Martha Nielsen,/wiki/Martha_Nielsen
-Jonas Kahnwald,Great-Great-Grand-Uncle,Noah,/wiki/Noah
-Jonas Kahnwald,First Cousin; Thrice Removed,Charlotte Doppler,/wiki/Charlotte_Doppler
-Jonas Kahnwald,Second Cousin; Twice Removed,Franziska Doppler,/wiki/Franziska_Doppler
-Jonas Kahnwald,Second Cousin; Twice Removed,Elisabeth Doppler,/wiki/Elisabeth_Doppler
-Jonas Kahnwald,Great-Great-Great-Grandfather,Bartosz Tiedemann,/wiki/Bartosz_Tiedemann
+Jonas Kahnwald,mother/great-great-great-great-grandmother,Hannah Kahnwald,/wiki/Hannah_Kahnwald
+Jonas Kahnwald,father/great-great-grandson,Michael Kahnwald,/wiki/Michael_Kahnwald
+Jonas Kahnwald,half-sister/great-great-great-grandmother,Silja Tiedemann,/wiki/Silja_Tiedemann
+Jonas Kahnwald,son/great-great-grandfather,The Unknown,/wiki/The_Unknown
+Jonas Kahnwald,grandfather,Sebastian Krüger,/wiki/Sebastian_Kr%C3%BCger
+Jonas Kahnwald,grandfather/great-grandson,Ulrich Nielsen,/wiki/Ulrich_Nielsen
+Jonas Kahnwald,grandmother,Katharina Nielsen,/wiki/Katharina_Nielsen
+Jonas Kahnwald,adoptive grandmother,Ines Kahnwald,/wiki/Ines_Kahnwald
+Jonas Kahnwald,great-grandfather/grandson,Tronte Nielsen,/wiki/Tronte_Nielsen
+Jonas Kahnwald,great-grandmother,Jana Nielsen,/wiki/Jana_Nielsen
+Jonas Kahnwald,great-grandmother,Helene Albers,/wiki/Helene_Albers
+Jonas Kahnwald,great-grandfather,Hermann Albers,/wiki/Hermann_Albers
+Jonas Kahnwald,adoptive great-grandfather †,Daniel Kahnwald,/wiki/Daniel_Kahnwald
+Jonas Kahnwald,great-great-grandmother,Agnes Nielsen,/wiki/Agnes_Nielsen
+Jonas Kahnwald,great-uncle/great-grandson,Mads Nielsen,/wiki/Mads_Nielsen
+Jonas Kahnwald,uncle/great-great-grandson,Magnus Nielsen,/wiki/Magnus_Nielsen
+Jonas Kahnwald,aunt/great-great-granddaughter/lover,Martha Nielsen,/wiki/Martha_Nielsen
+Jonas Kahnwald,great-great-great-uncle,Hanno Tauber,/wiki/Hanno_Tauber
+Jonas Kahnwald,"first cousin, thrice removed",Charlotte Doppler,/wiki/Charlotte_Doppler
+Jonas Kahnwald,"second cousin, twice removed",Franziska Doppler,/wiki/Franziska_Doppler
+Jonas Kahnwald,"second cousin, twice removed",Elisabeth Doppler,/wiki/Elisabeth_Doppler
+Jonas Kahnwald,great-great-great-grandfather,Bartosz Tiedemann,/wiki/Bartosz_Tiedemann
+Jonas Kahnwald,great-great-great-great-grandfather,Aleksander Tiedemann,/wiki/Aleksander_Tiedemann
+Jonas Kahnwald,great-great-great-great-grandmother,Regina Tiedemann,/wiki/Regina_Tiedemann
+Jonas Kahnwald,great-great-great-great-grandfather/great-great-great-great-great-great-grandfather,Egon Tiedemann,/wiki/Egon_Tiedemann
+Jonas Kahnwald,great-great-great-great-great-grandmother,Claudia Tiedemann,/wiki/Claudia_Tiedemann
+Jonas Kahnwald,great-great-great-great-great-grandfather,Bernd Doppler,/wiki/Bernd_Doppler
+Jonas Kahnwald,great-great-great-great-great-great-grandmother,Doris Tiedemann,/wiki/Doris_Tiedemann
 Hanno Tauber,Father/First cousin; once removed,Bartosz Tiedemann,/wiki/Bartosz_Tiedemann
 Hanno Tauber,Mother,Silja Tiedemann,/wiki/Silja_Tiedemann
 Hanno Tauber,Sister,Agnes Nielsen,/wiki/Agnes_Nielsen
