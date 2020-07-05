@@ -13,9 +13,9 @@ SESSION = requests.session()
 BASE_URL = 'https://dark-netflix.fandom.com'
 
 # List of characters to collect
-characters_urls = ['/wiki/Daniel_Kahnwald', '/wiki/Hannah_Kahnwald', '/wiki/Ines_Kahnwald', '/wiki/Michael_Kahnwald',
-                   '/wiki/Sebastian_Kr%C3%BCger', '/wiki/Sebastian_Kr%C3%BCger', '/wiki/Agnes_Nielsen', 
-                   '/wiki/Jana_Nielsen', '/wiki/Katharina_Nielsen', '/wiki/Magnus_Nielsen', '/wiki/Martha_Nielsen', 
+characters_urls = ['/wiki/Daniel_Kahnwald', '/wiki/Hannah_Kahnwald', '/wiki/Ines_Kahnwald', 
+                   '/wiki/Michael_Kahnwald', '/wiki/Sebastian_Krüger', '/wiki/Agnes_Nielsen', 
+                   '/wiki/Katharina_Nielsen', '/wiki/Magnus_Nielsen', 
                    '/wiki/Mikkel_Nielsen', '/wiki/Tronte_Nielsen', '/wiki/Ulrich_Nielsen',
                    '/wiki/Mads_Nielsen', '/wiki/Bernd_Doppler', '/wiki/Charlotte_Doppler',
                    '/wiki/Elisabeth_Doppler', '/wiki/Franziska_Doppler', '/wiki/Greta_Doppler',
@@ -23,12 +23,12 @@ characters_urls = ['/wiki/Daniel_Kahnwald', '/wiki/Hannah_Kahnwald', '/wiki/Ines
                    '/wiki/Silja_Tiedemann', '/wiki/H.G._Tannhaus', '/wiki/The_Unknown',
                    '/wiki/Aleksander_Tiedemann', '/wiki/Bartosz_Tiedemann', '/wiki/Claudia_Tiedemann',
                    '/wiki/Doris_Tiedemann', '/wiki/Egon_Tiedemann', '/wiki/Regina_Tiedemann',
-                   '/wiki/Jonas_Kahnwald', '/wiki/Hanno_Tauber']
+                   '/wiki/Jonas_Kahnwald', '/wiki/Hanno_Tauber', '/wiki/Martha_Nielsen']
 relationships = []
 thumbnails = []
 
 # For each character, collect its relative's data
-for character in tqdm(characters_urls):
+for character in tqdm(characters_urls, desc='CRAWLING CHARACTERS DATA'):
     char_page = SESSION.get(BASE_URL+character)
     bs = BeautifulSoup(char_page.content, 'html.parser')
 
@@ -38,7 +38,7 @@ for character in tqdm(characters_urls):
     thumbnails.append({ 'character': character_name, 'thumbnail_url': character_thumbnail })
     
     # Downloading thumbnail
-    urllib.request.urlretrieve(character_thumbnail, 'data/img/characters/{}'.format(character_name))
+    #urllib.request.urlretrieve(character_thumbnail, 'data/img/characters/{}'.format(character_name))
 
     # Collecting Family board
     char_family_info = bs.find(attrs={"data-source": "Family"}).find_all(class_='pi-data-value pi-font')

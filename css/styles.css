@@ -4,8 +4,29 @@
   }
   
   #network {
-    height: 750px;
-    border: 1px solid lightgray;
+    height: 650px;
     background-color:#333333;
+  }
+}
+
+*:focus {
+  outline: none;
+}
+
+.bg_properties {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  border: 15px;
+  animation: fadein 3s;
+}
+
+@keyframes fadein {
+  from {
+      opacity:0;
+  }
+  to {
+      opacity:1;
   }
 }
