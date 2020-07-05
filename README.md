@@ -1,7 +1,7 @@
 
 # Dark Characters Network
 
-![](data/img/page/dark-logo.png)
+![](https://8flix.com/wp-content/uploads/2019/11/Dark-new-logo-blk.png)
 
 Netflix's Dark is a German science fiction thriller web television series co-created by Baran bo Odar and Jantje Friese. This series plays with time travel theories and creates a complex network of relationships among its characters. **This repository contains the data and code for a network analysis visualization that tries to make it easier to understand the complex plot**.
 
