@@ -7,7 +7,10 @@ Netflix's Dark is a German science fiction thriller web television series co-cre
 
 **The data was acquired by scraping [Dark's Fandom page](https://dark-netflix.fandom.com/), a collaborative platform for fans.**
 
-## Requirements
+## Live example
+[Click here to access the page and visualize the network](https://paulozip.github.io/dark_characters_network/)
+
+### Requirements
 **Python**
 
 * beautifulsoup4==4.7.1
