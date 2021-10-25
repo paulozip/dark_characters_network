@@ -65,6 +65,8 @@ function draw() {
   };
 
   var options = {
+    width: (window.innerWidth - 25) + "px",
+				    height: (window.innerHeight - 75) + "px",
     nodes: {
       borderWidth: 4,
       size: 50,
